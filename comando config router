@@ -1,0 +1,12 @@
+#inteface fa0/0
+ip address 200.200.200.129 255.255.255.252
+ipv6 address 2001:db8:acad:50FF::1:1/112
+no shutdown
+
+
+
+#exit
+show ip interface brief
+
+
+show ipv6 interface brief

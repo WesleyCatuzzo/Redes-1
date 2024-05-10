@@ -1,0 +1,31 @@
+1. Qual protocolo da camada de aplicação é usado para acessar a página html?
+	HTTP
+2. Qual protocolo da camada de transporte está sendo usado?
+	TCP
+3. Qual protocolo está sendo usado na camada de rede?
+	IPv4
+4. Qual protocolo está sendo usado na camada de enlace?
+	Ethernet II
+5. Qual a porta de origem e de destino da mensagem de requisição (request)?
+	origem: 53830
+	destino: 80
+6. Qual a porta de origem e de destino da mensagem de resposta (reply)?
+	origem: 80
+	destino: 53830
+7. Qual o endereço IP (endereço lógico) de origem e de destino da mensagem de requisição
+(request)?
+	origem: 172.20.222.155
+	destino: 200.134.18.46
+	
+8. Qual o endereço IP (endereço lógico) de origem e de destino da mensagem de resposta
+(reply)?
+	origem: 200.134.18.46
+	destino: 172.20.222.155
+
+9. Qual o endereço MAC (endereço físico) de origem e de destino da mensagem de
+requisição?
+	Destino: Routerbo_60:70:29(6c:3b:6b:60:70:29)
+	Origem: Dell_df:40:16(d0:94:66:df:40:16) 
+10. Qual o endereço MAC (endereço físico) de origem e de destino da mensagem de resposta?
+	origem: Routerbo_60:70:29(6c:3b:6b:60:70:29)
+	destino: Dell_df:40:16(d0:94:66:df:40:16) 
